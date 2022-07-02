@@ -1,6 +1,6 @@
 /**
-   * Create By Raikhan.
-   * Contact Me on wa.me/6282230484350
+   * Create By Dika Ardnt.
+   * Contact Me on wa.me/6288292024190
    * Follow https://github.com/DikaArdnt
 */
 
@@ -540,11 +540,11 @@ Ketik *nyerah* untuk menyerah dan mengakui kekalahan`
             }
             break
 	    case 'donasi': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
-                hisoka.sendMessage(m.chat, { image: { url: 'https://topupyuk.com/seller/qr/qris-saya?reload=0' }, caption: `*Hallo Kak ${m.pushName}*\n\n *Owner saya Open sewa bot*\n *⭔10k Per Group via dana 1 Bulan*\n *⭔10k via pulsa per 1 Bulan*\n\n*Donasi Donk Terserah mau berapa,Bisa via Dana/pulsa*\n\n *info lebih lanjut, Bisa chat owner saya*\nhttps://wa.me/6282230484350 (*Owner*)\n\n _Awas Lu Bohong_` }, { quoted: m })
+                hisoka.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74fd634010128be37972c.jpg' }, caption: `*Hallo Kak ${m.pushName}*\n\n *Owner saya Open sewa bot*\n *⭔10k Per Group via dana 1 Bulan*\n *⭔10k via pulsa per 1 Bulan*\n\n*Donasi Donk Terserah mau berapa,Bisa via Dana/pulsa*\n\n *info lebih lanjut, Bisa chat owner saya*\nhttps://wa.me/6285822347348 (*Owner*)\n\n _Awas Lu Bohong_` }, { quoted: m })
             }
             break
             case 'sc': {
-                m.reply('https://wa.me/6282230484350')
+                m.reply('https://wa.me/6285822347348')
             }
             break
             case 'chat': {
@@ -2730,13 +2730,13 @@ let capt = `⭔ Title: ${judul}
 Bot Ini Adalah Beta Multi-Device WhatsApp.
 
 ❏ *Info Creator*
-> Name : *Sans Bot*
-> Nomor : *https://wa.me/6282230484350*
-> Umur : *16*
+> Name : *ArullOfc*
+> Nomor : *https://wa.me/6285822347348*
+> Umur : *18*
 > Region : *Indonesia 🇲🇨*
 > Hobyy : *Gtw*
-> Made in : *Jawa Timue*
-> Nama Asli : *Private*
+> Made in : *Kalimantan Selatan*
+> Nama Asli : *Sahrull... Private*
 └───────⭓
 ~Silahkan Lihat Menu Dibawah^^~
 ┌──⭓ *Group Menu*
@@ -3042,13 +3042,13 @@ Bot Ini Adalah Beta Multi-Device WhatsApp.
 _Donasi Ngab Jangan Ngarep Free Mulu_`
                 let btn = [{
                                 urlButton: {
-                                    displayText: 'Grub Test Bot',
-                                    url: 'https://chat.whatsapp.com/KkGRzXAebSNC0Dy30Sggqi'
+                                    displayText: 'Grub Bot',
+                                    url: 'https://chat.whatsapp.com/LDN0EeJfASs0lbUhJsOJu1'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Owner',
-                                    phoneNumber: '+6282230484350'
+                                    phoneNumber: '+6285822347348'
                                 }
                             }, {
                                 quickReplyButton: {
