@@ -540,7 +540,7 @@ Ketik *nyerah* untuk menyerah dan mengakui kekalahan`
             }
             break
 	    case 'donasi': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
-                hisoka.sendMessage(m.chat, { image: { url: 'https://topupyuk.com/seller/qr/qris-saya?reload=0' }, caption: `*Hallo Kak ${m.pushName}*\n\n *Owner saya Open sewa bot*\n *⭔10k Per Group via dana 1 Bulan*\n *⭔10k via pulsa per 1 Bulan*\n\n*Donasi Donk Terserah mau berapa,Bisa via Dana/pulsa*\n\n *info lebih lanjut, Bisa chat owner saya*\nhttps://wa.me/6282230484350 (*Owner*)\n\n _Awas Lu Bohong_` }, { quoted: m })
+                hisoka.sendMessage(m.chat, { image: { url: 'https://drive.google.com/file/d/1K7N5-Uw6Pp6GEqiExdA0OgtQHChvnr24/view?usp=sharing' }, caption: `*Hallo Kak ${m.pushName}*\n\n *Owner saya Open sewa bot*\n *⭔10k Per Group via dana 1 Bulan*\n *⭔10k via pulsa per 1 Bulan*\n\n*Donasi Donk Terserah mau berapa,Bisa via Dana/pulsa*\n\n *info lebih lanjut, Bisa chat owner saya*\nhttps://wa.me/6282230484350 (*Owner*)\n\n _Awas Lu Bohong_` }, { quoted: m })
             }
             break
             case 'sc': {
