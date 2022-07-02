@@ -3043,7 +3043,7 @@ _Donasi Ngab Jangan Ngarep Free Mulu_`
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Grub Bot',
-                                    url: 'https://chat.whatsapp.com/LDN0EeJfASs0lbUhJsOJu1'
+                                    url: 'https://chat.whatsapp.com/KkGRzXAebSNC0Dy30Sggqi'
                                 }
                             }, {
                                 callButton: {
