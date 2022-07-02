@@ -1,6 +1,6 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
+   * Create By Raikhan.
+   * Contact Me on wa.me/6282230484350
    * Follow https://github.com/DikaArdnt
 */
 
@@ -540,11 +540,11 @@ Ketik *nyerah* untuk menyerah dan mengakui kekalahan`
             }
             break
 	    case 'donasi': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
-                hisoka.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74fd634010128be37972c.jpg' }, caption: `*Hallo Kak ${m.pushName}*\n\n *Owner saya Open sewa bot*\n *⭔10k Per Group via dana 1 Bulan*\n *⭔10k via pulsa per 1 Bulan*\n\n*Donasi Donk Terserah mau berapa,Bisa via Dana/pulsa*\n\n *info lebih lanjut, Bisa chat owner saya*\nhttps://wa.me/6285822347348 (*Owner*)\n\n _Awas Lu Bohong_` }, { quoted: m })
+                hisoka.sendMessage(m.chat, { image: { url: 'https://topupyuk.com/seller/qr/qris-saya?reload=0' }, caption: `*Hallo Kak ${m.pushName}*\n\n *Owner saya Open sewa bot*\n *⭔10k Per Group via dana 1 Bulan*\n *⭔10k via pulsa per 1 Bulan*\n\n*Donasi Donk Terserah mau berapa,Bisa via Dana/pulsa*\n\n *info lebih lanjut, Bisa chat owner saya*\nhttps://wa.me/6282230484350 (*Owner*)\n\n _Awas Lu Bohong_` }, { quoted: m })
             }
             break
             case 'sc': {
-                m.reply('https://wa.me/6285822347348')
+                m.reply('https://wa.me/6282230484350')
             }
             break
             case 'chat': {
@@ -1147,12 +1147,12 @@ break
                     let btn = [{
                                 urlButton: {
                                     displayText: 'Grub Ofc ArullBotzMD',
-                                    url: 'https://chat.whatsapp.com/LDN0EeJfASs0lbUhJsOJu1'
+                                    url: 'https://chat.whatsapp.com/KkGRzXAebSNC0Dy30Sggqi'
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Arull',
-                                    phoneNumber: '+6285822347348'
+                                    displayText: 'Number Raikhan',
+                                    phoneNumber: '+6282230484350'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1186,12 +1186,12 @@ break
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'Grub Ofc ArullBotzMD',
-                                    url: 'https://chat.whatsapp.com/LDN0EeJfASs0lbUhJsOJu1'
+                                    url: 'https://chat.whatsapp.com/KkGRzXAebSNC0Dy30Sggqi'
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Arull',
-                                    phoneNumber: '+6285822347348'
+                                    displayText: 'Number Raikhan',
+                                    phoneNumber: '+6282230484350'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2730,13 +2730,13 @@ let capt = `⭔ Title: ${judul}
 Bot Ini Adalah Beta Multi-Device WhatsApp.
 
 ❏ *Info Creator*
-> Name : *ArullOfc*
-> Nomor : *https://wa.me/6285822347348*
-> Umur : *18*
+> Name : *Sans Bot*
+> Nomor : *https://wa.me/6282230484350*
+> Umur : *16*
 > Region : *Indonesia 🇲🇨*
 > Hobyy : *Gtw*
-> Made in : *Kalimantan Selatan*
-> Nama Asli : *Sahrull... Private*
+> Made in : *Jawa Timur*
+> Nama Asli : *Private*
 └───────⭓
 ~Silahkan Lihat Menu Dibawah^^~
 ┌──⭓ *Group Menu*
